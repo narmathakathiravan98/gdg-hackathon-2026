@@ -1,0 +1,628 @@
+{
+  "bulk_delete": {
+    "total": 229,
+    "extracted": 16,
+    "events": [
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 020724 29",
+        "affected_node": "10.251.31.160:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103026",
+        "affected_node": "10.251.75.49:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103026",
+        "affected_node": "10.251.195.70:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103027",
+        "affected_node": "10.251.30.85",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103027",
+        "affected_node": "10.250.5.161",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103027",
+        "affected_node": "10.251.214.18:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103027",
+        "affected_node": "10.251.199.159",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103028",
+        "affected_node": "10.250.13.240:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103029",
+        "affected_node": "10.251.91.15:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103030",
+        "affected_node": "10.251.35.1",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103030",
+        "affected_node": "10.251.121.224:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103032",
+        "affected_node": "10.251.106.37",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103034",
+        "affected_node": "10.251.109.236",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103035",
+        "affected_node": "10.251.39.209",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103036",
+        "affected_node": "10.251.107.19:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      },
+      {
+        "category": "bulk_delete",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081110 103037",
+        "affected_node": "10.251.38.53",
+        "error_severity": "HIGH",
+        "likely_cause": "stale replica OR job cleanup OR over-replication",
+        "suggested_remediation": "verify replication factor, check if node is being decommissioned"
+      }
+    ]
+  },
+  "transfer_failure": {
+    "total": 454,
+    "extracted": 31,
+    "events": [
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 030942",
+        "source_node": "10.251.31.5",
+        "destination_node": "10.251.67.225",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 031019",
+        "source_node": "10.251.126.83",
+        "destination_node": "/10.251.126.83",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 032126",
+        "source_node": "10.251.26.8",
+        "destination_node": "10.251.38.197",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 035357",
+        "source_node": "10.251.71.97",
+        "destination_node": "10.250.15.67",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 040800",
+        "source_node": "10.250.6.214",
+        "destination_node": "10.250.6.214",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 042826",
+        "source_node": "10.251.67.4",
+        "destination_node": "10.251.91.84",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "2008-11-10 04:41:03",
+        "source_node": "10.251.215.50",
+        "destination_node": "10.251.107.196",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 050300",
+        "source_node": "10.251.30.134",
+        "destination_node": "10.251.65.203",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 051323",
+        "source_node": "10.251.71.146",
+        "destination_node": "10.251.71.146",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 054642",
+        "source_node": "10.251.215.16",
+        "destination_node": "/10.251.215.16",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 060934",
+        "source_node": "10.251.66.102",
+        "destination_node": "not applicable (server-side block transfer)",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 065635",
+        "source_node": "10.251.90.64:50010",
+        "destination_node": "10.251.199.245",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 070326",
+        "source_node": "10.251.75.228",
+        "destination_node": "10.251.75.228",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110 070334",
+        "source_node": "10.251.111.37",
+        "destination_node": "10.251.111.37",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081110",
+        "source_node": "10.250.10.6",
+        "destination_node": "10.251.90.239",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 091244",
+        "source_node": "10.251.39.192:57105",
+        "destination_node": "10.251.39.192:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 091439",
+        "source_node": "/10.251.198.196:34168",
+        "destination_node": "/10.251.198.196:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 091555",
+        "source_node": "10.250.15.67",
+        "destination_node": "10.250.15.67",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 092023",
+        "source_node": "10.251.70.112",
+        "destination_node": "10.251.70.112",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 092425",
+        "source_node": "/10.251.127.243:49726",
+        "destination_node": "/10.251.127.243:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 093316",
+        "source_node": "10.251.26.8",
+        "destination_node": "10.251.26.8",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 093429",
+        "source_node": "10.251.31.180",
+        "destination_node": "10.251.31.180",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 093513",
+        "source_node": "/10.250.5.237",
+        "destination_node": "/10.250.5.237",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 093657",
+        "source_node": "10.251.107.227",
+        "destination_node": "10.251.107.227",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 093701",
+        "source_node": "10.251.199.159",
+        "destination_node": "10.251.199.159",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "20110811 094008",
+        "source_node": "10.251.125.237",
+        "destination_node": "10.251.125.237",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 094052",
+        "source_node": "10.251.67.113",
+        "destination_node": "10.251.67.113",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 094415",
+        "source_node": "10.251.42.246",
+        "destination_node": "10.251.42.246",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 094921",
+        "source_node": "10.251.126.5",
+        "destination_node": "10.251.126.5",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 095020",
+        "source_node": "10.251.197.226",
+        "destination_node": "10.251.197.226",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      },
+      {
+        "category": "transfer_failure",
+        "service_name": "dfs.DataNode$DataXceiver",
+        "timestamp": "081111 095653",
+        "source_node": "/10.250.14.224:47278",
+        "destination_node": "/10.250.14.224:50010",
+        "error_severity": "HIGH",
+        "likely_cause": "network timeout OR connection reset OR node overload",
+        "suggested_remediation": "check network between nodes, restart DataNode if repeated"
+      }
+    ]
+  },
+  "block_replication": {
+    "total": 314,
+    "extracted": 0,
+    "events": []
+  },
+  "partial_block": {
+    "total": 115,
+    "extracted": 16,
+    "events": [
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 074540",
+        "file_path": "/user/root/rand6/_temporary/_task_200811101024_0013_m_001850_0/part-01850",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 074548",
+        "file_path": "/user/root/rand6/_temporary/_task_200811101024_0013_m_001835_0/part-01835",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 074958",
+        "file_path": "/user/root/rand6/_temporary/_task_200811101024_0013_m_001983_0/part-01983",
+        "error_severity": "MEDIUM",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 075158",
+        "file_path": "/user/root/rand6/_temporary/_task_200811101024_0013_m_002009_1/part-02009",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 082527",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_001049_0/part-01049",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 083212",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_000973_0/part-00973",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 083219",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_001348_0/part-01348. blk_4531288786306744275",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 084228",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_001394_0/part-01394",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 084619",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_001736_0/part-01736",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 084728",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_001649_0/part-01649.blk_-5581540863377925517",
+        "error_severity": "MEDIUM",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 084831",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_001940_0/part-01940",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 085059",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_001642_0/part-01642",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 085634",
+        "file_path": "/user/root/rand7/_temporary/_task_200811101024_0014_m_002007_0/part-02007",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 091200",
+        "file_path": "/user/root/rand8/_temporary/_task_200811101024_0015_m_000480_0/part-00480",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 091351",
+        "file_path": "/user/root/rand8/_temporary/_task_200811101024_0015_m_000737_0/part-00737",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      },
+      {
+        "category": "partial_block",
+        "service_name": "dfs.FSNamesystem",
+        "timestamp": "081111 092311",
+        "file_path": "/user/root/rand8/_temporary/_task_200811101024_0015_m_000882_0/part-00882. blk_-3152434225121092058",
+        "error_severity": "INFO",
+        "likely_cause": "end of file write OR job completing OR interrupted write",
+        "suggested_remediation": "verify job completed successfully, check for incomplete writes"
+      }
+    ]
+  },
+  "block_verification": {
+    "total": 20,
+    "extracted": 0,
+    "events": []
+  }
+}
